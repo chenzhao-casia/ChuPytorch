@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4547bcdf-1c75-4fb6-aadc-faec9c4cb45c" name="SumoRL" url="http:///">
+        <fileTransfer rootFolder="/home/lab/Data/ZC/Sumo" accessType="SFTP" host="192.168.1.101" port="22" sshConfigId="98c3bd92-505f-4252-9ba6-5f8d0b74ced4" sshConfig="Lab">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
